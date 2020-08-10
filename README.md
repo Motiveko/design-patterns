@@ -5,16 +5,16 @@
 
 #### ---- 현재까지 학습한 패턴 ----
 
-abstract factory 
+  abstract factory 
 
-adapter
+  adapter
 
-builder
+  builder
 
-factory
+  factory
 
-prototype
+  prototype
 
-singleton
+  singleton
 
-template
+  template
