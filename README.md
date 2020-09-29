@@ -9,7 +9,7 @@
 
   abstract factory 
 
-  adapter
+  * [adapter](https://motiveko.tistory.com/7)
 
   builder
 
