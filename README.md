@@ -7,16 +7,18 @@
 
 #### ---- 현재까지 학습한 패턴 ----
 
-  abstract factory 
-
+  ##### Creational
+  
+  * abstract factory
+  * builder
+  * factory method
+  * prototype
+  * singleton
+  
+  
+  ##### Structural
   * [adapter](https://motiveko.tistory.com/7)
 
-  builder
 
-  factory
-
-  prototype
-
-  singleton
-
-  template
+  ##### Behavioral
+  * template
