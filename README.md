@@ -14,7 +14,8 @@
   
   ##### Structural
   * [adapter](https://motiveko.tistory.com/7)
-
+  * [bridge](https://motiveko.tistory.com/8)
+   
 
   ##### Behavioral
   * template
